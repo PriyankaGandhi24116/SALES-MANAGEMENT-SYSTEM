@@ -295,16 +295,12 @@ Priyanka Gandhi
 
 🔗 GitHub: "PriyankaGandhi24116" (https://github.com/PriyankaGandhi24116)
 
-🔗 LinkedIn: "Priyanka Gandhi" (https://www.linkedin.com/in/priyanka-gandhi-80abaa430/)
+🔗 LinkedIn: "Priyanka Gandhi" (https://www.linkedin.com/in/priyanka-gandhi-b951b2436)
 
 ---
 
 📝 Conclusion
 
 The Sales Management System provides an organized and efficient solution for managing customers, products, sales transactions, invoices, and sales records.
-
-The project demonstrates the practical implementation of Java, JDBC, MySQL, SQL, Eclipse, and Layered Architecture in developing a database-driven application.
-
-By centralizing sales information and reducing manual data management, the system helps improve data accuracy, efficiency, organization, and accessibility.
 
 With future enhancements such as inventory management, advanced sales analytics, automated reporting, and AI-based sales forecasting, the system can be further developed into a comprehensive business sales management solution.
